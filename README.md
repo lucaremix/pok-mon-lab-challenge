@@ -53,6 +53,7 @@ Two-phase Pokémon builder:
 <p align="center">
   <img src="assets/demo.gif" width="200"/>
 </p>
+
 - Select Nature DNA, Ability Genome, and up to 4 moves (from your Move Machine creations)
 - Hit **REVEAL** to unveil the Pokémon
 - Hit **DOWNLOAD .PK4** to export — consumes Phase 2 items and generates the file
