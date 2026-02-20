@@ -51,7 +51,7 @@ Two-phase Pokémon builder:
 
 **Phase 2 — Genome Configuration**
 <p align="center">
-  <img src="assets/demo.gif" width="200"/>
+  <img src="assets/assembling.gif" width="200"/>
 </p>
 
 - Select Nature DNA, Ability Genome, and up to 4 moves (from your Move Machine creations)
