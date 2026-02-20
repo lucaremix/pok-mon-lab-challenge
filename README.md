@@ -1,3 +1,21 @@
+<p align="center">
+  <img src="assets/logo.png" width="900" />
+</p>
+
+<h1 align="center">Pokémon Lab Challenge</h1>
+<p align="center">
+  Companion app for a custom Sacred Gold challenge: craft Pokémon via lab systems and event rewards.
+</p>
+
+<p align="center">
+  <a href="https://github.com/lucaremix/pokemon-lab-challenge/releases/latest">
+    <img src="https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/lucaremix/pokemon-lab-challenge/releases">
+    <img src="https://img.shields.io/badge/Releases-All-lightgrey?style=for-the-badge" />
+  </a>
+</p>
+
 # 🧬 Pokémon Lab Challenge
 
 A companion web app for a custom challenge run of **Sacred Gold** (Drayano's HeartGold ROM hack). Instead of catching Pokémon in the wild, you *craft* them — earning materials by beating gym leaders and events, then assembling them in machines to build your team.
