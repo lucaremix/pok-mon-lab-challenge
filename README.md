@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" width="300" />
+  <img src="assets/logo.png" width="900" />
 </p>
 
 <h1 align="center">Pokémon Lab Challenge</h1>
@@ -51,7 +51,7 @@ Two-phase Pokémon builder:
 
 **Phase 2 — Genome Configuration**
 <p align="center">
-  <img src="assets/demo.gif" width="900"/>
+  <img src="assets/demo.gif" width="200"/>
 </p>
 - Select Nature DNA, Ability Genome, and up to 4 moves (from your Move Machine creations)
 - Hit **REVEAL** to unveil the Pokémon
